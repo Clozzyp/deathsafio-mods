@@ -259,6 +259,81 @@
       "name": "framework-fabric-1.21.1-0.13.11.jar",
       "url": "https://github.com/Clozzyp/deathsafio-mods/releases/download/v1.1/framework-fabric-1.21.1-0.13.11.jar",
       "sha256": "5d15360a4fffa8699562c700b5b0e97f0fd0b63006f0c1dbe2fec2b60022117d"
+    },
+    {
+      "name": "chloride-FABRIC-mc1.21.1-v1.8.1.jar",
+      "url": "https://github.com/Clozzyp/deathsafio-mods/releases/download/v1.2/chloride-FABRIC-mc1.21.1-v1.8.1.jar",
+      "sha256": "b88b0e0d2fd3f50fdd2fd3649065444568e8ad29e8e3f2f2bf6c22baf7fa2011"
+    },
+    {
+      "name": "fragmentum-5.4.0+1.21.1-fabric.jar",
+      "url": "https://github.com/Clozzyp/deathsafio-mods/releases/download/v1.2/fragmentum-5.4.0%2B1.21.1-fabric.jar",
+      "sha256": "8e006da47e01dad1201177af4d8d0e7e6f1c9362d4bb7ba8631230d1eb1b52ae"
+    },
+    {
+      "name": "fzzy_config-0.7.7+1.21.jar",
+      "url": "https://github.com/Clozzyp/deathsafio-mods/releases/download/v1.2/fzzy_config-0.7.7%2B1.21.jar",
+      "sha256": "8183d6bf61e2b222bd628e0d3f6a01da50839244054e27ba4532e1768d709b8f"
+    },
+    {
+      "name": "InvMove-0.9.3+1.21.1-Fabric.jar",
+      "url": "https://github.com/Clozzyp/deathsafio-mods/releases/download/v1.2/InvMove-0.9.3%2B1.21.1-Fabric.jar",
+      "sha256": "09b6c6352d0ea4ec4890f2ec798e18bbc6dbcad9171cb3e4041c46fb8c85ce03"
+    },
+    {
+      "name": "iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+      "url": "https://github.com/Clozzyp/deathsafio-mods/releases/download/v1.2/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar",
+      "sha256": "0ceb694040b4628bf3fa02286cfe5f0db833195669ab07f8caa4001359763eff"
+    },
+    {
+      "name": "itemzoomer-fabric-2.3.0-1.21.1.jar",
+      "url": "https://github.com/Clozzyp/deathsafio-mods/releases/download/v1.2/itemzoomer-fabric-2.3.0-1.21.1.jar",
+      "sha256": "c4f320d3799e545df521270b4a39189b7da6752dc35e75c215005991b7fba1e0"
+    },
+    {
+      "name": "MerchantMarkers-1.21.1-fabric-1.3.6.jar",
+      "url": "https://github.com/Clozzyp/deathsafio-mods/releases/download/v1.2/MerchantMarkers-1.21.1-fabric-1.3.6.jar",
+      "sha256": "2d75439362d790757e13911ee55a9d3eb11913d0284e909a895e4bb70e5682b8"
+    },
+    {
+      "name": "obscure_tooltips-fabric-1.21.1-4.2.5.jar",
+      "url": "https://github.com/Clozzyp/deathsafio-mods/releases/download/v1.2/obscure_tooltips-fabric-1.21.1-4.2.5.jar",
+      "sha256": "48670c1507e100744cc22b7b02eaac154de5288dbed21375b3d2ff2635ee45f9"
+    },
+    {
+      "name": "packed_packs-fabric-2.4.0+1.21.1.jar",
+      "url": "https://github.com/Clozzyp/deathsafio-mods/releases/download/v1.2/packed_packs-fabric-2.4.0%2B1.21.1.jar",
+      "sha256": "ad07c856ee1fc4308ab52d9374937ebc8cd97ccfd8fbb3410ea98b2975e5f3c4"
+    },
+    {
+      "name": "punchy-3.2b-fabric-1.21.1.jar",
+      "url": "https://github.com/Clozzyp/deathsafio-mods/releases/download/v1.2/punchy-3.2b-fabric-1.21.1.jar",
+      "sha256": "5e0a110e3862726a44159614b6bd1967c98aab717aed59c746206d0d3c610af4"
+    },
+    {
+      "name": "skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
+      "url": "https://github.com/Clozzyp/deathsafio-mods/releases/download/v1.2/skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
+      "sha256": "af04f7c2d59aa72ff8c872a348b0e0eef65d25e1ae73bfe2abac0732a6709814"
+    },
+    {
+      "name": "SubtleEffects-fabric-1.21.1-1.15.3.jar",
+      "url": "https://github.com/Clozzyp/deathsafio-mods/releases/download/v1.2/SubtleEffects-fabric-1.21.1-1.15.3.jar",
+      "sha256": "1d195c091d30184ae5480bab7972712392c577e3e27a039e7c3fde36de4b557b"
+    },
+    {
+      "name": "weaponmaster_ydm-fabric-1.21.1-4.4.2.jar",
+      "url": "https://github.com/Clozzyp/deathsafio-mods/releases/download/v1.2/weaponmaster_ydm-fabric-1.21.1-4.4.2.jar",
+      "sha256": "5bf5cfc041e9b543e993a8a696702c3a2a09caaed9304e9f88d2a425e451b603"
+    },
+    {
+      "name": "appleskin-fabric-mc1.21-3.0.6.jar",
+      "url": "https://github.com/Clozzyp/deathsafio-mods/releases/download/v1.2/appleskin-fabric-mc1.21-3.0.6.jar",
+      "sha256": "9a19cec1294b1bc708392a08e6926dcb85d7378ec5ad909a4b6fcb8bc3bfeaa2"
+    },
+    {
+      "name": "armor_hud-fabric-1.1.1+mc1.21.1.jar",
+      "url": "https://github.com/Clozzyp/deathsafio-mods/releases/download/v1.2/armor_hud-fabric-1.1.1%2Bmc1.21.1.jar",
+      "sha256": "4b4e36cb426b866ec1d977347bf60c42fddfbdabcf818d91e3b7611198c6fa94"
     }
   ],
   "configZip": {
