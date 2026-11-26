@@ -10,14 +10,14 @@
     "id": "v1.0.1-notif-center",
     "tag": "AVISO",
     "title": "Estreno del Centro de Notificaciones",
-    "message": "Aquí recibirás avisos importantes sobre nuevos mods, parches, eventos y novedades de la serie sin tener que buscar en otro lado.",
+    "message": "Aquí recibirás avisos importantes sobre nuevos mods, eventos y novedades de la serie sin tener que buscar en otro lado.",
     "date": "26 Nov 2026"
   },
   {
-    "id": "v1.2-mods-update",
-    "tag": "MODS",
-    "title": "Pack de Mods v1.2 y Controles",
-    "message": "Se añadieron Refurbished Furniture, SkinLayers3D, Iris, SubtleEffects y se actualizaron las teclas predeterminadas.",
+    "id": "v1.0.1-optimizaciones",
+    "tag": "LAUNCHER",
+    "title": "Descargas más rápidas y estables",
+    "message": "Se mejoró la estabilidad al descargar archivos, con reintentos automáticos y tiempo aproximado restante.",
     "date": "26 Nov 2026"
   }
 ]
