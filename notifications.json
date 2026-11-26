@@ -1,0 +1,23 @@
+[
+  {
+    "id": "v1.0.1-rich-presence",
+    "tag": "LAUNCHER",
+    "title": "Nuevo: Discord Rich Presence",
+    "message": "Ahora tu perfil de Discord mostrará que estás jugando DEATHSAFIO junto con el botón oficial para unirse a la comunidad.",
+    "date": "26 Nov 2026"
+  },
+  {
+    "id": "v1.0.1-notif-center",
+    "tag": "AVISO",
+    "title": "Estreno del Centro de Notificaciones",
+    "message": "Aquí recibirás avisos importantes sobre nuevos mods, parches, eventos y novedades de la serie sin tener que buscar en otro lado.",
+    "date": "26 Nov 2026"
+  },
+  {
+    "id": "v1.2-mods-update",
+    "tag": "MODS",
+    "title": "Pack de Mods v1.2 y Controles",
+    "message": "Se añadieron Refurbished Furniture, SkinLayers3D, Iris, SubtleEffects y se actualizaron las teclas predeterminadas.",
+    "date": "26 Nov 2026"
+  }
+]
