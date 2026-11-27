@@ -1,5 +1,19 @@
 [
   {
+    "id": "v1.0.2-redesign",
+    "tag": "LAUNCHER",
+    "title": "Actualización v1.0.2: Nuevo diseño y herramientas",
+    "message": "Se renovó el apartado de Ajustes e Inicio, y se añadieron los botones 'Reportar error (Ticket)' y 'Desinstalar Launcher' con paneles integrados.",
+    "date": "27 Nov 2026"
+  },
+  {
+    "id": "v1.0.2-stability",
+    "tag": "AVISO",
+    "title": "Mayor estabilidad y limpieza automática",
+    "message": "El launcher ahora verifica la integridad de Java 21 automáticamente y limpia registros antiguos (+3 días) para ahorrar espacio en tu disco.",
+    "date": "27 Nov 2026"
+  },
+  {
     "id": "v1.0.1-rich-presence",
     "tag": "LAUNCHER",
     "title": "Nuevo: Discord Rich Presence",
@@ -10,14 +24,7 @@
     "id": "v1.0.1-notif-center",
     "tag": "AVISO",
     "title": "Estreno del Centro de Notificaciones",
-    "message": "Aquí recibirás avisos importantes sobre nuevos mods, eventos y novedades de la serie sin tener que buscar en otro lado.",
-    "date": "26 Nov 2026"
-  },
-  {
-    "id": "v1.0.1-optimizaciones",
-    "tag": "LAUNCHER",
-    "title": "Descargas más rápidas y estables",
-    "message": "Se mejoró la estabilidad al descargar archivos, con reintentos automáticos y tiempo aproximado restante.",
+    "message": "Aquí recibirás avisos importantes sobre nuevos parches, eventos y novedades de la serie sin tener que buscar en otro lado.",
     "date": "26 Nov 2026"
   }
 ]
