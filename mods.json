@@ -329,6 +329,16 @@
       "name": "armor_hud-fabric-1.1.1+mc1.21.1.jar",
       "url": "https://github.com/Clozzyp/deathsafio-mods/releases/download/v1.2/armor_hud-fabric-1.1.1%2Bmc1.21.1.jar",
       "sha256": "4b4e36cb426b866ec1d977347bf60c42fddfbdabcf818d91e3b7611198c6fa94"
+    },
+    {
+      "name": "noisium-fabric-2.7.0+mc1.21-1.21.1.jar",
+      "url": "https://github.com/Clozzyp/deathsafio-mods/releases/download/v1.2/noisium-fabric-2.7.0%2Bmc1.21-1.21.1.jar",
+      "sha256": "d7e471aae3fc221f3fc31104b996b2b6f2dd592a5a9c79da4a8ef310efbea315"
+    },
+    {
+      "name": "krypton-0.2.8.jar",
+      "url": "https://github.com/Clozzyp/deathsafio-mods/releases/download/v1.2/krypton-0.2.8.jar",
+      "sha256": "94f195819b24e5da64effdc9da15cdd84836cc75e8ff0fd098bab6bc2f49e3fe"
     }
   ],
   "configZip": {
