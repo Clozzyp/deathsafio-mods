@@ -8,9 +8,9 @@
   },
   {
     "id": "v1.0.2-stability",
-    "tag": "AVISO",
-    "title": "Mayor estabilidad y limpieza automática",
-    "message": "El launcher ahora verifica la integridad de Java 21 automáticamente y limpia registros antiguos (+3 días) para ahorrar espacio en tu disco.",
+    "tag": "MODS",
+    "title": "Mejoras de estabilidad en servidor y cliente",
+    "message": "Se añadieron mods de optimización interna para mejorar la estabilidad de conexión y rendimiento, además de limpieza automática de registros (+3 días) y verificación de Java 21.",
     "date": "27 Nov 2026"
   },
   {
